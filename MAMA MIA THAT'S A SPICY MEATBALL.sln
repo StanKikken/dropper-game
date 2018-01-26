@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAMA MIA THAT'S A SPICY MEATBALL", "MAMA MIA THAT'S A SPICY MEATBALL\MAMA MIA THAT'S A SPICY MEATBALL.csproj", "{DC8B0D90-514B-4FC7-A48F-2E5C9313C96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8B0D90-514B-4FC7-A48F-2E5C9313C96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8B0D90-514B-4FC7-A48F-2E5C9313C96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8B0D90-514B-4FC7-A48F-2E5C9313C96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8B0D90-514B-4FC7-A48F-2E5C9313C96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A32AF0-3027-4D52-9742-00716D835DCD}
+	EndGlobalSection
+EndGlobal
